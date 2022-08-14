@@ -1,5 +1,5 @@
 # Split-bill
-randomly selecting who will pay.
+# randomly selecting who will pay.
 Print("Welcome to random select!")
 names_str=input("What are your names?")
 names= names_str.split(",")
